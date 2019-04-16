@@ -15,5 +15,6 @@ hidl_interface {
         "FpTest",
     ],
     gen_java: true,
+    tags: ["optional"],
 }
 
